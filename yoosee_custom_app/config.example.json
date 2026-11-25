@@ -1,0 +1,15 @@
+{
+  "cameras": [
+    {
+      "nome": "Minha Yoosee",
+      "ip": "192.168.1.100",
+      "rtsp_port": 554,
+      "onvif_port": 5000,
+      "user": "admin",
+      "password": "SUA_SENHA_RTSP",
+      "path_alta": "/onvif1",
+      "path_baixa": "/onvif2",
+      "transport": "udp"
+    }
+  ]
+}

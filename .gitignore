@@ -1,0 +1,21 @@
+# Credenciais locais (nunca versionar)
+config.json
+.smoke_usage.json
+usage.json
+events.json
+
+# Mídia privada / capturas de rede
+*.pcap
+*.apk
+test_frame.jpg
+audio_test*.wav
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
